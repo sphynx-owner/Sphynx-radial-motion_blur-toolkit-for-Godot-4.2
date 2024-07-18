@@ -4,3 +4,4 @@ An addon containing a radial blur mesh that can be applied to rapidly spinning t
 ![image](https://github.com/user-attachments/assets/a334ca97-92ae-4778-962c-d45cbe19bb9a)
 
 An overview video can be found here:
+https://youtu.be/eslsw9do4Kc
